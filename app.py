@@ -16,7 +16,7 @@ from datetime import date
 import time
 import urllib.request
 import os
-from tkinter import Tk
+
 
 app = Flask(__name__)
 
